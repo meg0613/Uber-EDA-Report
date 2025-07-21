@@ -37,4 +37,5 @@ This chart compares the count of each ride status across time slots. It highligh
 trip failures (No Cars Available and Cancelled) occur in the Early Morning and Night. This
 insight informs when driver supply needs to be increased.
 
-![status vs time slot](status-vs-time-slot.png)
+
+<img width="585" height="316" alt="Status Vs Time Slot" src="https://github.com/user-attachments/assets/df067f94-8d19-41be-8468-92c6816155e7" />
