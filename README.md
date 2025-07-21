@@ -39,3 +39,30 @@ insight informs when driver supply needs to be increased.
 
 
 <img width="585" height="316" alt="Status Vs Time Slot" src="https://github.com/user-attachments/assets/df067f94-8d19-41be-8468-92c6816155e7" />
+
+### Chart 2: Pickup Point by Status
+
+This chart shows how ride statuses vary across pickup points (Airport and City). City
+pickups face more cancellations, while Airport pickups are often met with no availability —
+especially at night.
+
+![pickup point vs status](pickup.png)
+
+### Chart 3: Hourly Request Distribution
+
+Displays ride request volume across 24 hours. Clear spikes are observed between 5–9 AM
+and 5–8 PM, suggesting peak periods where Uber should increase supply or apply surge
+pricing.
+
+![hourly request distribution](hourly.png)
+
+### Chart 4: Success Vs Failure
+
+Shows the overall trip completion ratio. Only 39.6% of total requests are fulfilled,
+emphasizing the urgent need to optimize driver availability and reduce cancellations.
+
+![success vs failure](success.png)
+
+
+
+
