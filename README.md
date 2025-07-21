@@ -311,7 +311,7 @@ Uber Services Data: The primary dataset used for this analysis is the "uber_raw_
 ### Tools
 
 * Excel - Data Cleaning + Creating reports
-  * [Download Cleaned Data](https://drive.google.com/file/d/1tM11qrTBNGoyL2Y8IFMpijxlLFizS4XP/view)
+  * [Download Cleaned Data](Uber_Cleaned_Data.csv)
 * SQL Server - Data Analysis
 * Pandas - Visualization 
 
